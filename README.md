@@ -1,5 +1,10 @@
 # VSTS-Bot 
 
+## STC
+### @w A Quick way to interact with the Goal Tracking Engine and get what I want in 2-3 seconds [=If I know what I want ;) ]
+### @cr It takes more than 10-15 seconds and the view+information does not provide an acceptable perspective...
+
+
 ![Build Status](https://almrangers.visualstudio.com/_apis/public/build/definitions/7f3cfb9a-d1cb-4e66-9d36-1af87b906fe9/143/badge)
 
 ## Introduction
